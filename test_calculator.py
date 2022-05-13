@@ -1,4 +1,4 @@
-from calculator import  calculate_rectangle_area, calculate_triangle_area
+from calculator import calculate_rectangle_area, calculate_triangle_area
 
 
 def test_calculate_rectangle_area():
